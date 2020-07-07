@@ -1,0 +1,33 @@
+
+name: zhangsan
+
+person:
+  name: zhangsan
+  addr: 123
+
+server:
+  port: 8082
+
+#person: {naem: zhangsna,age: 18}
+
+city:
+  - beijing
+  - tianjing
+  - shanghai
+
+#city: [beijing,tioanjing]
+
+student:
+  - name: tom
+    age: 18
+  - name: lucy
+    age: 13
+
+#student: [{naem: tom,age: 18},{name: wee,age: 19}]
+
+map:
+  key1: value1
+  key2: value2
+
+
+
