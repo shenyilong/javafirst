@@ -1,6 +1,6 @@
 package com.shen.dao;
 
-import com.itheima.domain.User;
+import com.shen.domain.User;
 import org.apache.ibatis.annotations.Select;
 
 import java.util.List;

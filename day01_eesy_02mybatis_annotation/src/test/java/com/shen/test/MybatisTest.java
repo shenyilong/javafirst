@@ -1,7 +1,7 @@
 package com.shen.test;
 
-import com.itheima.dao.IUserDao;
-import com.itheima.domain.User;
+import com.shen.dao.IUserDao;
+import com.shen.domain.User;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;

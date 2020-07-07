@@ -16,7 +16,7 @@
                 <property name="driver" value="com.mysql.jdbc.Driver"/>
                 <property name="url" value="jdbc:mysql://localhost:3306/eesy_mybatis"/>
                 <property name="username" value="root"/>
-                <property name="password" value="1234"/>
+                <property name="password" value="syl2000113"/>
             </dataSource>
         </environment>
     </environments>
@@ -25,6 +25,6 @@
         如果是用注解来配置的话，此处应该使用class属性指定被注解的dao全限定类名
     -->
     <mappers>
-        <mapper class="com.itheima.dao.IUserDao"/>
+        <mapper class="com.shen.dao.IUserDao"/>
     </mappers>
 </configuration>
